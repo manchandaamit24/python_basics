@@ -32,7 +32,7 @@ def monthConversion(mon):
     }
     print(monthConversionsDic.get(mon,"Not a valid Month"))
 
-#monthConversion("Feb1")
+monthConversion("Feb")
 
 
 #def isNumberPrime(num):

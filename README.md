@@ -2,6 +2,7 @@
 
 Will add some basic Python Programs under this REPO
 
-## Prgorams List
+## Programs List
 
 1. Hello Python
+2. Some Basic Programs
