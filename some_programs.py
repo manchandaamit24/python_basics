@@ -21,7 +21,7 @@ def checkNum(num):
     else:
         print("Sorry, Number doesn't divide by 3 & 5")
 
-#checkNum(26)
+checkNum(26)
 
 
 def monthConversion(mon):
