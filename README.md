@@ -1,3 +1,3 @@
-# DEMO
+# Python Basics Learning
 
-Some description comes here
+Will add some basic Python Programs under this REPO
